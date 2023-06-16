@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "number",
+    "project_id": "your-id",
+    "storage_bucket": "your-bucket"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385558062788:android:8dd9939dfc9a3f1ec04b91",
+        "android_client_info": {
+          "package_name": "com.example.meal_tracker_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "your-id",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meal_tracker_app",
+            "certificate_hash": "your-hash"
+          }
+        },
+        {
+          "client_id": "your-id",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "your-api-key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "your-id",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
